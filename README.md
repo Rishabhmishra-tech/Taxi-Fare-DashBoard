@@ -133,5 +133,5 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-Your Name  
+Rishabh kumar mishra 
 Data Analyst / Data Science Enthusiast
