@@ -86,7 +86,7 @@ An interactive dashboard was built to display key insights such as:
 ---
 
 ## 📸 Dashboard Preview
-
+https://github.com/Rishabhmishra-tech/Taxi-Fare-DashBoard/blob/main/taxi%20fare%20dashboard.png
 
 ---
 
